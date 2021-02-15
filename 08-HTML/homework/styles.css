@@ -1,5 +1,5 @@
 .div-con-fondo{
-background-image: url(https://i0.wp.com/st2.depositphotos.com/2335175/10082/v/950/depositphotos_100829042-stock-illustration-the-background-for-the-web.jpg);
+background-image: url("https://i0.wp.com/st2.depositphotos.com/2335175/10082/v/950/depositphotos_100829042-stock-illustration-the-background-for-the-web.jpg");
 }
 .flex-container {
   display: flex;
