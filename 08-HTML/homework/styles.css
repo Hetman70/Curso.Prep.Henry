@@ -1,4 +1,10 @@
 
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
       h1{color: red; }
       img{width: 400px;}
       #thirdDiv{height: 600; width: 500; background-color:DodgerBlue; padding: 50px; border: 15px solid green;}
